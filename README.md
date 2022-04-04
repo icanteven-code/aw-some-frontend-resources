@@ -1,1 +1,1 @@
-# awsome-frontend-resources
+# Awsome Frontend Resources 👓🖌️
