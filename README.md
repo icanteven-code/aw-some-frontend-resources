@@ -36,6 +36,13 @@ Note that this is still a Work-In-Progress 🚧👷‍♂️ as I have stored li
 - [MDN - HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - This page lists all the HTML elements by groups
 - [Kevin Powell - 5 important HTML concepts for beginners](https://www.youtube.com/watch?v=HJ0-fUJ-2F0)
 - [Kevin Powell - The most common HTML mistake that I see](https://www.youtube.com/watch?v=NexL5_Vdoq8)
+- [`<article>` vs. `<section>`: How To Choose The Right One](https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/) - A pretty in-depth take on the forever question `div` vs `section` vs `article`.
+    - > I gave my usual answer: think of <article> not just as a newspaper article or a blog post, but as an article of clothing — a discrete entity that can be reused in another context. So your trousers are an article, and you can wear them with a different outfit; your shirt is an article and can be worn with different trousers; your knee-length patent leather stiletto boots are an article (you wouldn’t wear just one of them, would you?).
+    - > Does grouping this content play a role that may help explain my document structure? If it does not, then I can use a div. If it does, play a role and proceed to consider if the role matches a section or an article. What role does it play in my document structure? Is the content of this group thematically related such that it helps to understand the outline of my document? If it is, then it is possibly a section. Is the content of this group one that contains content that I can take out and redistribute to other pages while it does not totally tie to my document theme and outline? If it is, then it is possibly an article.
+- [Div divisiveness](https://www.scottohara.me/blog/2022/01/20/divisive.html) - Why `div`s aren't evil & why any overexaggerating is bad. Also a lot of good examples where you should and should probably not use `div`.
+    - By representing nothing, a <div> is free to be anything. A <div> is essentially chaotic neutral and can easily pivot between valid and invalid use, per the whim of the developer that uses it.
+    - Use semantic HTML. Use semantic HTML as a default. Just maybe also don’t worry so much about if other people aren’t using semantic HTML if what they’ve built doesn’t actually result in accessibility issues? Or, if calling out the lack of semantic HTML, be very specific about what the actual problem is. The semantics of HTML are not just about accessibility. They’re useful for other tools that consume HTML, and can be far easier to understand for fellow developers modifying markup than a sea of never-ending <div>s.
+    - Remember, <div>s are meant to represent nothing. They can be made into just about anything… just don’t make them into soup.
 
 
 <br />
@@ -64,6 +71,7 @@ Note that this is still a Work-In-Progress 🚧👷‍♂️ as I have stored li
   - [Test CSS Flexbox Rules](https://flexbox.help/)
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)
+  - [Flexbox Playground](https://flexbox.tech/)
   - [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 - Grid
   - [CSS-Tricks - A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
