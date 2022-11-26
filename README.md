@@ -60,7 +60,7 @@ Note that this is still a Work-In-Progress 🚧👷‍♂️ as I have stored li
   - [Stephanie Eckles' - The Complete Guide to Centering in CSS](https://moderncss.dev/complete-guide-to-centering-in-css/)
 - [A List Apart - Axiomatic CSS and Lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 - [CSS-Tricks - A Complete Guide to CSS Media Queries ](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-
+- [The evolution of scalable CSS ](https://frontendmastery.com/posts/the-evolution-of-scalable-css/) - A really nice tale abot the evolution of css, with good references and nice ideas.
 
 <br />
 
@@ -106,7 +106,7 @@ Note that this is still a Work-In-Progress 🚧👷‍♂️ as I have stored li
 <br />
 
 ## Methodologies & naming conventions
-- [BEM](http://getbem.com/)
+- [BEM](https://en.bem.info/methodology/)
 - [BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [SMACSS](http://smacss.com/)
 - [OOCSS](http://oocss.org/)
